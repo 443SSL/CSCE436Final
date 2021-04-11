@@ -9,4 +9,4 @@ Modify gender norms in the STEM field by creating a product/service that engages
 - Week of 26th April: Finalizing website, videos, photos, description of system processes and final presentation
 ## Videos / Photos
 
-## Desciptionss
+## Description

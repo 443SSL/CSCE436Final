@@ -7,7 +7,7 @@ Modify gender norms in the STEM field by creating a product/service that engages
 - Week of 12th April: Continue building moldeing parts and develop the the code lanaguge
 - Week of 19th April: Testing the prototype and recording the video
 - Week of 26th April: Finalizing website, videos, photos, description of system processes and final presentation
-- wow
+
 ## Videos / Photos
 
 ## Description

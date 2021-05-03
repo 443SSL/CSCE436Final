@@ -26,7 +26,8 @@ During this week, we started modeling our ideas in a 3D environment. We also con
 
 **Week of 12th April: Continue building/modeling parts and develop the the code lanaguge.**  
 At the end of this week nad our meeting with Professor Kim, we had a much clearer idea of how to present our project in the final and what direction we wanted to take it in. Our prototype for a block based programming language was coming together nicely and we had a plan to execute in the coming weeks.  
-  
+![code](/images/code.jpg){: width="700" }
+![MVP Doll](/images/image1.jpg){: height="400" }
   
 **Week of 19th April: Testing the prototype and creating the video.**  
 This week was mainly based around putting the final touches on the physical and software prototypes and creating the final presentation video. We created the video using a combination of live action video, screen recording, video scribe, google chrome extensions, and editing software and at the end it all came together for a presentation we were all happy with.  
@@ -34,8 +35,7 @@ This week was mainly based around putting the final touches on the physical and 
   
 **Week of 26th April: Finalizing website, videos, photos, description of system processes and final presentation.**  
 We presented our video on Monday and worked towards completing the website and the final wrapping up of the documentation for the project.  
-![code](/images/code.jpg){: width="700" }
-![MVP Doll](/images/image1.jpg){: height="400" }
+
   
   
 ## Video  

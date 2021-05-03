@@ -4,7 +4,12 @@ The STEM field is a highly gendered space. In this new age of inclusivity, diver
 The first step to modifying gender norms in the STEM field is to encourage curiosity and involvement in the space from a young age. Unfortunately, presently the majority of this encouragement is targeted towards boys. This is evidenced by a large number of STEM-related toys intended for boys and the exclusion of toys with stereotypical female styles. As such, we propose “The Programmable Action Figure”, a gender-neutral toy for children which encourages both boys and girls to get interested in the STEM field.
 
 We hope that with the Programmable Action Figure, we will be able to encourage interest in STEM by coupling a popular toy type with a programmable interface to manipulate said toy. By exposing children early to the idea of programming, computer science, robotics, and STEM in general, we believe that this product can help alleviate the gender disparity that currently exists in the many STEM fields.
-![statistics](/images/stat.jpg){: height="400" }
+
+## Video  
+
+https://www.youtube.com/embed/sbwzGIjk1e8  
+  
+  
 ## Product Introduction
 
 The Programmable Action Figure is a theorized device that allows the user to interact, play, and experience a personalizable motorized figure. The figure is paired with a programming interface with a simple, intuitive, user interface to allow the user to learn, engage, and develop an interest in robotics and computer science.
@@ -60,8 +65,7 @@ The next focus would be some frontend UI work to the programmable interface. Sim
 
 
 
-## Videos / Photos
-
-
-
-
+## Photos
+![sketchup Doll](/images/image3.png){: height="400" }
+![animated Doll](/images/image2.jpg){: height="400" }
+![MVP Doll](/images/image1.jpg){: height="400" }

@@ -5,6 +5,11 @@ The first step to modifying gender norms in the STEM field is to encourage curio
 
 We hope that with the Programmable Action Figure, we will be able to encourage interest in STEM by coupling a popular toy type with a programmable interface to manipulate said toy. By exposing children early to the idea of programming, computer science, robotics, and STEM in general, we believe that this product can help alleviate the gender disparity that currently exists in the many STEM fields.
 
+## Video  
+
+https://www.youtube.com/embed/sbwzGIjk1e8  
+  
+  
 ## Product Introduction
 
 The Programmable Action Figure is a theorized device that allows the user to interact, play, and experience a personalizable motorized figure. The figure is paired with a programming interface with a simple, intuitive, user interface to allow the user to learn, engage, and develop an interest in robotics and computer science.
@@ -58,7 +63,7 @@ The next focus would be some frontend UI work to the programmable interface. Sim
 
 
 
-## Videos / Photos
+## Photos
 ![sketchup Doll](/images/image3.png){: height="400" }
 ![animated Doll](/images/image2.jpg){: height="400" }
 ![MVP Doll](/images/image1.jpg){: height="400" }

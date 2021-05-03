@@ -12,28 +12,8 @@ The Programmable Action Figure is a theorized device that allows the user to int
 As a part of our development of this product, a prototype action figure was created (Details in Production Materials below) to demonstrate the intended function of the product. 
 
 Furthermore, a robust framework for the programmable interface was developed using REACT to manipulate the actions of the figure if the user wishes. It currently supports actions that we ascribe as functions of a minimally viable product. The framework was constructed to be extremely portable and customizable and can be trivially expanded upon to add new functionality that may be added to the figure. A walkthrough of the programmable interface can be found [here](https://youtu.be/sbwzGIjk1e8?t=126). Code for the interface can be found [here](https://github.com/arbinb/FigureProgrammableInterface).
-
-## Product Materials
-
-The prototype action figure was made by purchasing a premade action figure that was composed of Polyethylene terephthalate (PETE). The action figure was then coated with white acrylic paint and quickly dried with hair dryers. The prototype was repainted and redried until all remaining surfaces were covered.
-
-The programmable interface was developed using REACT. It was developed to offer a drag and drop programming experience like MIT’s Scratch. The development of the programmable interface was heavily aided by the following sources:
-
-https://github.com/successlab/fresco-appbuilder
-https://github.com/michalochman/react-web-audio-graph
-https://github.com/meatflavourdev/react-flow-test
-
-The FRESCO AppBuilder was developed by team member Arbin Bhuiyan as a part of his undergraduate research thesis in collaboration with Michael Chacko, and have given their blessing to allow their work to aid in the development of the programmable interface of the Programmable Action Figure. Jeremy Dombrowsk’s and Michał Ochman’s “React Web Audio Graph” and “React Flow Test” (respectively) allow for use of their work through a creative commons licence. 
-
-## Product Future Work
-
-The plans for the future primarily focus on improving the look and design of the figure. First step is to design and build a figure with various robotic parts. Parts such as programmable motors, moveable joints, and wiring for the system. With that achievement placing the robotic built figure into a shell of a woman or man. The women and man design will be very simplistic and focus on using gender-neutral colors on the figure and for branding. This means straying away from pink and blues and focusing on colors such as whites, greens, and yellows.
-
-In addition to improving the figure and its functionality, the programmable interface would also have to be updated to reflect these new features. The primary focus would be to expand the movement operations the figure can do. Such as jumping, sitting down, or even the power to grab things. 
-
-The next focus would be some frontend UI work to the programmable interface. Simple things like adding some color, fun animations, and a navbar with all commands to make the program more user-friendly user friendly for kids would be welcome additions that add to the functionality and useability of the entire figure/programmable interface combo. 
-
-
+  
+  
 ## 5 Week Milestones
 **Week of 29th March: Initial planning and brainstorming.**  
 This week, we met our goal by brainstorming and laying the groundwork for our project. We moved through a number of ideas but eventually landed on an easily programmable robot that could appeal to girls.  
@@ -56,7 +36,29 @@ We presented our video on Monday and worked towards completing the website and t
 ![code](/images/code.jpg){: width="400" }
 ![MVP Doll](/images/image1.jpg){: height="400" }
   
-## Description
+
+## Product Materials
+
+The prototype action figure was made by purchasing a premade action figure that was composed of Polyethylene terephthalate (PETE). The action figure was then coated with white acrylic paint and quickly dried with hair dryers. The prototype was repainted and redried until all remaining surfaces were covered.
+
+The programmable interface was developed using REACT. It was developed to offer a drag and drop programming experience like MIT’s Scratch. The development of the programmable interface was heavily aided by the following sources:
+
+https://github.com/successlab/fresco-appbuilder
+https://github.com/michalochman/react-web-audio-graph
+https://github.com/meatflavourdev/react-flow-test
+
+The FRESCO AppBuilder was developed by team member Arbin Bhuiyan as a part of his undergraduate research thesis in collaboration with Michael Chacko, and have given their blessing to allow their work to aid in the development of the programmable interface of the Programmable Action Figure. Jeremy Dombrowsk’s and Michał Ochman’s “React Web Audio Graph” and “React Flow Test” (respectively) allow for use of their work through a creative commons licence. 
+  
+  
+## Product Future Work
+
+The plans for the future primarily focus on improving the look and design of the figure. First step is to design and build a figure with various robotic parts. Parts such as programmable motors, moveable joints, and wiring for the system. With that achievement placing the robotic built figure into a shell of a woman or man. The women and man design will be very simplistic and focus on using gender-neutral colors on the figure and for branding. This means straying away from pink and blues and focusing on colors such as whites, greens, and yellows.
+
+In addition to improving the figure and its functionality, the programmable interface would also have to be updated to reflect these new features. The primary focus would be to expand the movement operations the figure can do. Such as jumping, sitting down, or even the power to grab things. 
+
+The next focus would be some frontend UI work to the programmable interface. Simple things like adding some color, fun animations, and a navbar with all commands to make the program more user-friendly user friendly for kids would be welcome additions that add to the functionality and useability of the entire figure/programmable interface combo. 
+
+
 
 ## Videos / Photos
 

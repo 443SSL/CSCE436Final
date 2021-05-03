@@ -49,11 +49,11 @@ The prototype action figure was made by purchasing a premade action figure that 
 The programmable interface was developed using REACT. It was developed to offer a drag and drop programming experience like MIT’s Scratch. The development of the programmable interface was heavily aided by the following sources:
 
   
-[FRESCO App Builder]https://github.com/successlab/fresco-appbuilder  
+[FRESCO App Builder](https://github.com/successlab/fresco-appbuilder)  
   
-[React web audio graph]https://github.com/michalochman/react-web-audio-graph  
+[React web audio graph](https://github.com/michalochman/react-web-audio-graph)  
   
-[React flow test]https://github.com/meatflavourdev/react-flow-test  
+[React flow test](https://github.com/meatflavourdev/react-flow-test)  
   
 The FRESCO AppBuilder was developed by team member Arbin Bhuiyan as a part of his undergraduate research thesis in collaboration with Michael Chacko, and have given their blessing to allow their work to aid in the development of the programmable interface of the Programmable Action Figure. Jeremy Dombrowsk’s and Michał Ochman’s “React Web Audio Graph” and “React Flow Test” (respectively) allow for use of their work through a creative commons licence. 
   

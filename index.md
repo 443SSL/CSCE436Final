@@ -34,7 +34,7 @@ This week was mainly based around putting the final touches on the physical and 
   
 **Week of 26th April: Finalizing website, videos, photos, description of system processes and final presentation.**  
 We presented our video on Monday and worked towards completing the website and the final wrapping up of the documentation for the project.  
-![code](/images/code.jpg){: width="800" }
+![code](/images/code.jpg){: width="700" }
 ![MVP Doll](/images/image1.jpg){: height="400" }
   
   

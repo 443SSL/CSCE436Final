@@ -11,4 +11,6 @@ Modify gender norms in the STEM field by creating a product/service that engages
 ## Description
 
 ## Videos / Photos
+![sketchup Doll](/images/image3.jpg)
+![animated Doll](/images/image2.jpg)
 ![MVP Doll](/images/image1.jpg)

@@ -7,8 +7,8 @@ We hope that with the Programmable Action Figure, we will be able to encourage i
 
 ## Video  
 
-https://www.youtube.com/embed/sbwzGIjk1e8  
-  
+<iframe width="420" height="315" src="https://www.youtube.com/embed/sbwzGIjk1e8  " frameborder="0" allowfullscreen></iframe>
+
   
 ## Product Introduction
 

@@ -25,6 +25,6 @@ We presented our video on Monday and worked towards completing the website and t
 ## Description
 
 ## Videos / Photos
-![sketchup Doll](/images/image3.png)
+![sketchup Doll](/images/image3.png){: height="250" }
 ![animated Doll](/images/image2.jpg)
 ![MVP Doll](/images/image1.jpg){: height="250" }

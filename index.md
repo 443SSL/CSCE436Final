@@ -38,7 +38,7 @@ This week was mainly based around putting the final touches on the physical and 
   
 **Week of 26th April: Finalizing website, videos, photos, description of system processes and final presentation.**  
 We presented our video on Monday and worked towards completing the website and the final wrapping up of the documentation for the project.  
-![code](/images/code.jpg){: width="400" }
+![code](/images/code.jpg){: width="800" }
 ![MVP Doll](/images/image1.jpg){: height="400" }
   
 
@@ -66,6 +66,4 @@ The next focus would be some frontend UI work to the programmable interface. Sim
 
 
 ## Photos
-![sketchup Doll](/images/image3.png){: height="400" }
-![animated Doll](/images/image2.jpg){: height="400" }
-![MVP Doll](/images/image1.jpg){: height="400" }
+
